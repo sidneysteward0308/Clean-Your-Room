@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Sidney/Downloads/Clean-Your-Room/MyProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/Sidney/Downloads/Clean-Your-Room/MyProject/Content/TestEnvironment.umap",
+				"C:/Users/Sidney/Downloads/Clean-Your-Room/MyProject/Content/Inputs/Input_Movement.uasset",
+				"C:/Users/Sidney/Downloads/Clean-Your-Room/MyProject/Content/Inputs/Mapping_Player.uasset",
+				"C:/Users/Sidney/Downloads/Clean-Your-Room/MyProject/Content/Inputs/Input_Interact.uasset",
+				"C:/Users/Sidney/Downloads/Clean-Your-Room/MyProject/Content/Inputs/Input_Jump.uasset",
+				"C:/Users/Sidney/Downloads/Clean-Your-Room/MyProject/Content/Inputs/Input_Look.uasset",
+				"C:/Users/Sidney/Downloads/Clean-Your-Room/MyProject/Content/Player/BP_PlayerChar.uasset",
+				"C:/Users/Sidney/Downloads/Clean-Your-Room/MyProject/Content/Player/BP_PlayerController.uasset",
+				"C:/Users/Sidney/Downloads/Clean-Your-Room/MyProject/Content/Player/BP_GameMode.uasset",
+				"C:/Users/Sidney/Downloads/Clean-Your-Room/MyProject/Content/Interfaces/Interface_Interact.uasset"
+			]
+		}
+	]
+}
